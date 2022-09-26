@@ -3,8 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         ' Declaracion de variables
-        Dim temperaturaCelcius As Single
-        Dim temperaturaFahrenheit As Single
+        Dim temperaturaCelcius, temperaturaFahrenheit As Single
         ' Ingreso de datos
         Console.Write("Ingrese la temperatura en grados celcius: ")
         temperaturaCelcius = Console.ReadLine()

@@ -7,6 +7,7 @@ class Program{
         // Ingreso de datos
         Console.Write("Ingrese la temperatura en grados celcius: ");
         temperaturaCelcius = Convert.ToSingle(Console.ReadLine());
+        // también se puede resolver de la siguiente manera
         //temperaturaCelcius = float.Parse(Console.ReadLine());
         // proceso
         temperaturaFahrenheit = (float)(temperaturaCelcius * 1.8 + 32);
