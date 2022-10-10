@@ -7,45 +7,49 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.01.GradosFahrenheitVb", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.01.GradosFahrenheitCs", "GradosFahrenheitCs\1.01.GradosFahrenheitCs.csproj", "{C6A72682-2107-4F0B-85EB-E98226E52DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.02.VelocidadDeLaLuzCs", "1.02.VelocidadDeLaLuzCs\1.02.VelocidadDeLaLuzCs.csproj", "{54DAD429-2D48-45AE-A023-CB75A5E1635A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.02.VelocidadDeLaLuzCs", "1.02.VelocidadDeLaLuzCs\1.02.VelocidadDeLaLuzCs.csproj", "{54DAD429-2D48-45AE-A023-CB75A5E1635A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.02.VelocidadDeLaLuzVb", "1.02.VelocidadDeLaLuzVb\1.02.VelocidadDeLaLuzVb.vbproj", "{D53CE18E-E7C3-452A-8DCC-9B3E2D5F8DA6}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.02.VelocidadDeLaLuzVb", "1.02.VelocidadDeLaLuzVb\1.02.VelocidadDeLaLuzVb.vbproj", "{D53CE18E-E7C3-452A-8DCC-9B3E2D5F8DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.03.EquivalenciasHorasCs", "1.03.EquivalenciasHoras\1.03.EquivalenciasHorasCs.csproj", "{433C604E-12FF-4ACF-A7CE-9714A0832F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.03.EquivalenciasHorasCs", "1.03.EquivalenciasHoras\1.03.EquivalenciasHorasCs.csproj", "{433C604E-12FF-4ACF-A7CE-9714A0832F21}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.03.EquivalenciasHorasVb", "1.03.EquivalenciasHorasVb\1.03.EquivalenciasHorasVb.vbproj", "{1CCDF73D-074E-41E0-BF23-1E2AA36BA205}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.03.EquivalenciasHorasVb", "1.03.EquivalenciasHorasVb\1.03.EquivalenciasHorasVb.vbproj", "{1CCDF73D-074E-41E0-BF23-1E2AA36BA205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.04.CotizaciónTerrenoCs", "1.04.CotizaciónTerrenoCs\1.04.CotizaciónTerrenoCs.csproj", "{F33DE70F-7FBD-4CF7-BE70-5F511BA0D798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.04.CotizaciónTerrenoCs", "1.04.CotizaciónTerrenoCs\1.04.CotizaciónTerrenoCs.csproj", "{F33DE70F-7FBD-4CF7-BE70-5F511BA0D798}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.04.CotizaciónTerrenoVb", "1.04.CotizaciónTerrenoVb\1.04.CotizaciónTerrenoVb.vbproj", "{E61FC475-E25F-4544-A873-59F1B9216500}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.04.CotizaciónTerrenoVb", "1.04.CotizaciónTerrenoVb\1.04.CotizaciónTerrenoVb.vbproj", "{E61FC475-E25F-4544-A873-59F1B9216500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.05.CotizacionDolarCs", "1.05.CotizaciónDólar\1.05.CotizacionDolarCs.csproj", "{DD8FF908-F97D-4A70-8006-D2975BB7203F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.05.CotizacionDolarCs", "1.05.CotizaciónDólar\1.05.CotizacionDolarCs.csproj", "{DD8FF908-F97D-4A70-8006-D2975BB7203F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.05.CotizacionDolarVb", "1.05.CotizacionDolarVb\1.05.CotizacionDolarVb.vbproj", "{FA07B222-8085-462A-913F-DC6245D338F1}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.05.CotizacionDolarVb", "1.05.CotizacionDolarVb\1.05.CotizacionDolarVb.vbproj", "{FA07B222-8085-462A-913F-DC6245D338F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.06.SumaPromedioCs", "1.06.SumaPromedio\1.06.SumaPromedioCs.csproj", "{F5BFE86E-0073-4F7F-8902-6E3892D7140F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.06.SumaPromedioCs", "1.06.SumaPromedio\1.06.SumaPromedioCs.csproj", "{F5BFE86E-0073-4F7F-8902-6E3892D7140F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.06.SumaPromedioVb", "1.06.SumaPromedioVb\1.06.SumaPromedioVb.vbproj", "{6EEF5720-D6B2-4230-877F-77337FF8EF25}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.06.SumaPromedioVb", "1.06.SumaPromedioVb\1.06.SumaPromedioVb.vbproj", "{6EEF5720-D6B2-4230-877F-77337FF8EF25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.07.FacturaciónCs", "1.07.FacturaciónCs\1.07.FacturaciónCs.csproj", "{FD60530B-D458-4FD9-87EF-B8F060DBD914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.07.FacturaciónCs", "1.07.FacturaciónCs\1.07.FacturaciónCs.csproj", "{FD60530B-D458-4FD9-87EF-B8F060DBD914}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.07.FacturaciónVb", "1.07.FacturaciónVb\1.07.FacturaciónVb.vbproj", "{168CDCF3-5C9C-4179-A257-0AC98B9A2FEB}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.07.FacturaciónVb", "1.07.FacturaciónVb\1.07.FacturaciónVb.vbproj", "{168CDCF3-5C9C-4179-A257-0AC98B9A2FEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.08.EquivalenciasPiesCs", "1.08.EquivalenciasPiesCs\1.08.EquivalenciasPiesCs.csproj", "{F4A0D604-5A98-4857-A558-304BF72A3D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.08.EquivalenciasPiesCs", "1.08.EquivalenciasPiesCs\1.08.EquivalenciasPiesCs.csproj", "{F4A0D604-5A98-4857-A558-304BF72A3D89}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.08.EquivalenciasPiesVb", "1.08.EquivalenciasPiesVb\1.08.EquivalenciasPiesVb.vbproj", "{818BE394-BAA2-4C87-8CFE-A06DEDBD71FD}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.08.EquivalenciasPiesVb", "1.08.EquivalenciasPiesVb\1.08.EquivalenciasPiesVb.vbproj", "{818BE394-BAA2-4C87-8CFE-A06DEDBD71FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.09.AreaCirculoCs", "1.09.AreaCirculo\1.09.AreaCirculoCs.csproj", "{C847DCE0-75C0-4EE0-A1BB-201361CDA0A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.09.AreaCirculoCs", "1.09.AreaCirculo\1.09.AreaCirculoCs.csproj", "{C847DCE0-75C0-4EE0-A1BB-201361CDA0A4}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.09.AreaCirculoVb", "1.09.AreaCirculoVb\1.09.AreaCirculoVb.vbproj", "{44FC029C-2988-40E4-9FD0-519FABBCB41C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.09.AreaCirculoVb", "1.09.AreaCirculoVb\1.09.AreaCirculoVb.vbproj", "{44FC029C-2988-40E4-9FD0-519FABBCB41C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.10.AritmeticasCs", "1.10.AritmeticasCs\1.10.AritmeticasCs.csproj", "{5EE5BEE2-BAFA-4E53-A697-B1FDDB6EF1ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.10.AritmeticasCs", "1.10.AritmeticasCs\1.10.AritmeticasCs.csproj", "{5EE5BEE2-BAFA-4E53-A697-B1FDDB6EF1ED}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.10.AritmeticasVb", "1.10.AritmeticasVb\1.10.AritmeticasVb.vbproj", "{8441F551-AA6F-4485-BB51-403A88651422}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.10.AritmeticasVb", "1.10.AritmeticasVb\1.10.AritmeticasVb.vbproj", "{8441F551-AA6F-4485-BB51-403A88651422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.11.RedondeoCs", "1.11.RedondeoCs\1.11.RedondeoCs.csproj", "{D85FAAF4-C55B-40B3-B9CB-45AC21120E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.11.RedondeoCs", "1.11.RedondeoCs\1.11.RedondeoCs.csproj", "{D85FAAF4-C55B-40B3-B9CB-45AC21120E95}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.11.RedondeoVb", "1.11.RedondeoVb\1.11.RedondeoVb.vbproj", "{9AD1B544-5D61-4273-BBEB-0A6098CA45C7}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.11.RedondeoVb", "1.11.RedondeoVb\1.11.RedondeoVb.vbproj", "{9AD1B544-5D61-4273-BBEB-0A6098CA45C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.12.MayorCs", "1.12.MayorCs\1.12.MayorCs.csproj", "{A10196EC-AF24-409F-9936-95088BBFBD95}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.12.MayorVb", "1.12.MayorVb\1.12.MayorVb.vbproj", "{B8E4C798-0070-461C-B7FF-F4BBB6BA059C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{9AD1B544-5D61-4273-BBEB-0A6098CA45C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD1B544-5D61-4273-BBEB-0A6098CA45C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD1B544-5D61-4273-BBEB-0A6098CA45C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10196EC-AF24-409F-9936-95088BBFBD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10196EC-AF24-409F-9936-95088BBFBD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10196EC-AF24-409F-9936-95088BBFBD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10196EC-AF24-409F-9936-95088BBFBD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E4C798-0070-461C-B7FF-F4BBB6BA059C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E4C798-0070-461C-B7FF-F4BBB6BA059C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E4C798-0070-461C-B7FF-F4BBB6BA059C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E4C798-0070-461C-B7FF-F4BBB6BA059C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
