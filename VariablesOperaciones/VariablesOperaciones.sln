@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.17.VerboSimpleCs", "1.17.
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.17.VerboSimpleVb", "1.17.VerboSimpleVb\1.17.VerboSimpleVb.vbproj", "{C2729D33-1077-45C4-AAC1-E1DB978A6956}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.18.SprintVb", "1.18.SprintVb\1.18.SprintVb.vbproj", "{26FA20DF-B281-451D-BDD7-45FCC5B21B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.18.SprintCs", "1.18.SprintCs\1.18.SprintCs.csproj", "{BBC77FDC-EB4C-4A39-A296-549914F4A1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{C2729D33-1077-45C4-AAC1-E1DB978A6956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2729D33-1077-45C4-AAC1-E1DB978A6956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2729D33-1077-45C4-AAC1-E1DB978A6956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FA20DF-B281-451D-BDD7-45FCC5B21B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FA20DF-B281-451D-BDD7-45FCC5B21B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FA20DF-B281-451D-BDD7-45FCC5B21B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FA20DF-B281-451D-BDD7-45FCC5B21B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC77FDC-EB4C-4A39-A296-549914F4A1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC77FDC-EB4C-4A39-A296-549914F4A1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC77FDC-EB4C-4A39-A296-549914F4A1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC77FDC-EB4C-4A39-A296-549914F4A1CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
