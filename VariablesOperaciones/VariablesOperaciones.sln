@@ -59,6 +59,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.14.CadenasVb", "1.14.Cade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.14.CadenasCs", "1.14.CadenasCs\1.14.CadenasCs.csproj", "{610ACD76-CE19-42EC-82CC-A09F5697D260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.15.PalabraMasLongitudCs", "1.15.PalabraMasLongitudCs\1.15.PalabraMasLongitudCs.csproj", "{422A6941-E793-4C0A-9059-86DDDB91F28B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.15.PalabraMasLongitudVb", "1.15.PalabraMasLongitudVb\1.15.PalabraMasLongitudVb.vbproj", "{05B26636-D489-4158-B070-6FA0B70499BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,14 @@ Global
 		{610ACD76-CE19-42EC-82CC-A09F5697D260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{610ACD76-CE19-42EC-82CC-A09F5697D260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{610ACD76-CE19-42EC-82CC-A09F5697D260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422A6941-E793-4C0A-9059-86DDDB91F28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422A6941-E793-4C0A-9059-86DDDB91F28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422A6941-E793-4C0A-9059-86DDDB91F28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422A6941-E793-4C0A-9059-86DDDB91F28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B26636-D489-4158-B070-6FA0B70499BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B26636-D489-4158-B070-6FA0B70499BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B26636-D489-4158-B070-6FA0B70499BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B26636-D489-4158-B070-6FA0B70499BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
